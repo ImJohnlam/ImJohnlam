@@ -11,9 +11,11 @@ Some of my interests are:
 
 ## Please check out some of the projects I have worked on!
 ### [Spotify Mix Maker (MVP), a tool to help producers and musicians create harmonic and coherent mixes](https://spotify-mix-maker.herokuapp.com/)
-![Spotify Mix Maker](https://i.imgur.com/xfRDEPU.png)
+<img src=https://i.imgur.com/xfRDEPU.png width='750'>
+
 ### [Steel Carnival, a third person arena fighter game](https://electrumlabs.itch.io/boss-rush?fbclid=IwAR0YwVP1V3vkutoc8L80wl_QhqwhdKEVJKK-iwKCz2_7ki2D-nFrqCr71hA)
-[![Steel Carnival Trailer](https://i.ytimg.com/vi/l1o-C_0H53s/maxresdefault.jpg)](https://www.youtube.com/watch?v=l1o-C_0H53s&feature=emb_title)
+[<img src=https://i.ytimg.com/vi/l1o-C_0H53s/maxresdefault.jpg width=750>](https://www.youtube.com/watch?v=l1o-C_0H53s&feature=emb_title)
+
 
 
 <!--
