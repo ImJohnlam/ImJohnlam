@@ -11,8 +11,15 @@ Some of my interests are:
 
 ## Please check out some of the projects I have worked on!
 ### [Spotify Mix Maker (MVP), a tool to help producers and musicians create harmonic and coherent mixes](https://spotify-mix-maker.herokuapp.com/)
-made with Node, Express, React, and the Spotify API
 <img src=https://i.imgur.com/xfRDEPU.png width='750'>
+Made with Node, Express, React, and the Spotify API.
+This web app pulls all data directly from the Spotify API.
+
+Main features:
+   - View detailed track characteristics (bpm, key, etc.)
+   - Find recommendations given using any songs, artists, or genres as a reference
+   - Create, edit, view Spotify playlists, add recommendations to the playlist all directly on the web app
+
 
 ### [Steel Carnival, a third person arena fighter game](https://electrumlabs.itch.io/boss-rush?fbclid=IwAR0YwVP1V3vkutoc8L80wl_QhqwhdKEVJKK-iwKCz2_7ki2D-nFrqCr71hA)
 made with Unreal Engine 4
