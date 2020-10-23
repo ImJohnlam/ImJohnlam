@@ -11,9 +11,9 @@ Some of my interests are:
 
 ## Please check out some of the projects I have worked on!
 ### [Spotify Mix Maker (MVP), a tool to help producers and musicians create harmonic and coherent mixes](https://spotify-mix-maker.herokuapp.com/)
-<img src=https://i.imgur.com/xfRDEPU.png width='750'>
 Made with Node, Express, React, and the Spotify API.
 This web app pulls all data directly from the Spotify API.
+<img src=https://i.imgur.com/xfRDEPU.png width='750'>
 
 Main features:
    - View detailed track characteristics (bpm, key, etc.)
