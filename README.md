@@ -9,6 +9,11 @@ Some of my interests are:
 🎮 Video game design  
 🎵 Music production
 
+Take a look at my:
+- [Resume](https://drive.google.com/file/d/1GhQbw2uX5NaMtLz3SZpq5dK0aPb8AfLj/view?usp=sharing)
+- [LinkedIn](https://www.linkedin.com/in/johnlam-tran/)
+
+
 ## Please check out some of the projects I have worked on!
 ### [Spotify Mix Maker (MVP), a tool to help producers and musicians create harmonic and coherent mixes](https://spotify-mix-maker.herokuapp.com/)
 Made with Node, Express, React, and the Spotify API.
@@ -25,7 +30,7 @@ Main features:
 made with Unreal Engine 4
 [<img src=https://i.ytimg.com/vi/l1o-C_0H53s/maxresdefault.jpg width=750>](https://www.youtube.com/watch?v=l1o-C_0H53s&feature=emb_title)
 
-
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSTIJDBvA1rNKhY8yxwshe9yJGZzqq943uTbWgR9t83PYJB4QzXWS6Eg94afooMGA/pub?embedded=true"></iframe>
 
 <!--
 **ImJohnlam/ImJohnlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
