@@ -10,7 +10,7 @@ Some of my interests are:
 🎵 Music production
 
 Take a look at my:
-- [Resume](https://drive.google.com/file/d/1GhQbw2uX5NaMtLz3SZpq5dK0aPb8AfLj/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/16gafJYanyWqJle3T7PZfQZOGEyT6AMdL/view?usp=sharing)
 - [LinkedIn](https://www.linkedin.com/in/johnlam-tran/)
 
 
